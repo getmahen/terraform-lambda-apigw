@@ -1,0 +1,5 @@
+bucket = "mahi-terraform-state"
+profile = "personalterraform"
+region = "us-west-2"
+access_key = "ACCESS KEY HERE"
+secret_key = "SECRET ACCESS KEY HERE"
